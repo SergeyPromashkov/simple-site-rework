@@ -214,6 +214,7 @@ a:hover {
   font-size: 0.8125rem;
 }
 
+/* Media queries */
 @media (576px <= width < 992px) {
   .navbar {
     margin-bottom: 70px;
